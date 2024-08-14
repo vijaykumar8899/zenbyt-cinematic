@@ -1,0 +1,193 @@
+.elementor-31225 .elementor-element.elementor-element-dba0c92 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-31225 .elementor-element.elementor-element-563bb46 {
+    text-align: center;
+}
+
+.elementor-31225 .elementor-element.elementor-element-563bb46 .elementor-heading-title {
+    color: #FFE5C8;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-style: normal;
+    line-height: 30px;
+}
+
+.elementor-31225 .elementor-element.elementor-element-563bb46>.elementor-widget-container {
+    padding: 4% 0% 0% 0%;
+}
+
+.elementor-31225 .elementor-element.elementor-element-563bb46.xpro-widget-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s;
+}
+
+.elementor-31225 .elementor-element.elementor-element-16ba8a9 {
+    color: #FFE5C8;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: none;
+    font-style: normal;
+    text-decoration: none;
+    letter-spacing: 0.5px;
+}
+
+.elementor-31225 .elementor-element.elementor-element-16ba8a9>.elementor-widget-container {
+    margin: -35px 0px 0px 0px;
+    padding: 0% 0% 0% 0%;
+}
+
+.elementor-31225 .elementor-element.elementor-element-16ba8a9.xpro-widget-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s;
+}
+
+.elementor-31225 .elementor-element.elementor-element-6ed61ea .elementor-wrapper {
+    --video-aspect-ratio: 1.77777;
+}
+
+.elementor-31225 .elementor-element.elementor-element-6ed61ea.xpro-widget-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s;
+}
+
+.elementor-31225 .elementor-element.elementor-element-9ea48da .elementor-button {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: inline-flex;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 0.7px;
+    fill: #FFE5C8;
+    color: #FFE5C8;
+    background-color: #61CE7003;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #FFE5C8;
+    border-radius: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 10px 0px rgba(254, 195.99999999999991, 0, 0.99);
+}
+
+.elementor-31225 .elementor-element.elementor-element-9ea48da .elementor-button:hover,
+.elementor-31225 .elementor-element.elementor-element-9ea48da .elementor-button:focus {
+    color: #F7D5AE;
+    background-color: #FFE5C800;
+}
+
+.elementor-31225 .elementor-element.elementor-element-9ea48da .elementor-button:hover svg,
+.elementor-31225 .elementor-element.elementor-element-9ea48da .elementor-button:focus svg {
+    fill: #F7D5AE;
+}
+
+.elementor-31225 .elementor-element.elementor-element-9ea48da>.elementor-widget-container {
+    padding: 0% 0% 0% 0%;
+}
+
+.elementor-31225 .elementor-element.elementor-element-9ea48da {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-31225 .elementor-element.elementor-element-9ea48da.xpro-widget-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s;
+}
+
+.elementor-31225 .elementor-element.elementor-element-66b3954 {
+    --spacer-size: 50px;
+}
+
+.elementor-31225 .elementor-element.elementor-element-66b3954.xpro-widget-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s;
+}
+
+#elementor-popup-modal-31225 .dialog-message {
+    height: auto;
+}
+
+#elementor-popup-modal-31225 {
+    justify-content: center;
+    align-items: center;
+    pointer-events: all;
+    background-color: #341900;
+}
+
+#elementor-popup-modal-31225 .dialog-close-button {
+    display: flex;
+    background-color: #000000;
+    font-size: 20px;
+}
+
+#elementor-popup-modal-31225 .dialog-widget-content {
+    animation-duration: 0.3s;
+    background-image: url("https://rgvden.com/wp-content/uploads/2023/12/1920X900-Rules-Regulations.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style: none;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 1px 1px 19px -2px #FF5A00;
+}
+
+#elementor-popup-modal-31225 .dialog-close-button i {
+    color: #FFF9F9;
+}
+
+#elementor-popup-modal-31225 .dialog-close-button svg {
+    fill: #FFF9F9;
+}
+
+@media(max-width:767px) {
+    .elementor-31225 .elementor-element.elementor-element-563bb46 {
+        text-align: center;
+        width: 100%;
+        max-width: 100%;
+    }
+    .elementor-31225 .elementor-element.elementor-element-563bb46 .elementor-heading-title {
+        font-size: 14px;
+    }
+    .elementor-31225 .elementor-element.elementor-element-563bb46>.elementor-widget-container {
+        padding: 0% 0% 0% 0%;
+    }
+    .elementor-31225 .elementor-element.elementor-element-16ba8a9 {
+        text-align: left;
+        font-size: 12px;
+    }
+    .elementor-31225 .elementor-element.elementor-element-16ba8a9>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0% 0% 0% 0%;
+    }
+    .elementor-31225 .elementor-element.elementor-element-9ea48da .elementor-button {
+        font-size: 12px;
+    }
+    .elementor-31225 .elementor-element.elementor-element-9ea48da>.elementor-widget-container {
+        padding: 0% 0% 0% 0%;
+    }
+    .elementor-31225 .elementor-element.elementor-element-66b3954 {
+        --spacer-size: 68px;
+    }
+    #elementor-popup-modal-31225 .dialog-close-button {
+        top: 5px;
+        font-size: 13px;
+    }
+    body:not(.rtl) #elementor-popup-modal-31225 .dialog-close-button {
+        right: 5px;
+    }
+    body.rtl #elementor-popup-modal-31225 .dialog-close-button {
+        left: 5px;
+    }
+}
